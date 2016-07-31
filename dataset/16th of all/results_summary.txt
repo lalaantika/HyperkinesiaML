@@ -1,0 +1,26 @@
+TRAINING/VALIDATION TESTS
+
+SETTINGS:
+Data file: E:\without name\New folder\16th of all\CHARM-like_training_data.csv
+Labels file: E:\without name\New folder\16th of all\CHARM-like_training_labels.csv
+Cross-validation method: kfold
+Classifier type: lda
+Parameter k of k-fold cross-validation: 10
+Training 10 classifiers.
+
+RESULTS:
+Accuracies:
+0: 	91.6666666667
+1: 	85.0
+2: 	88.3333333333
+3: 	86.6666666667
+4: 	88.3333333333
+5: 	86.6666666667
+6: 	85.0
+7: 	95.0
+8: 	83.3333333333
+9: 	88.3333333333
+
+Mean performance: 87.8333333333
+Median performance: 87.5
+Standard deviations: 3.25320354932
