@@ -93,7 +93,7 @@ class Predictionalgo(tk.Frame):
         innerFrame.place(relx=.4, rely=.4, anchor="c")
         update = ttk.Button(innerFrame, text="Prediction Algorithms For Machine Learning ", width='150')
         update.grid(row=0, columnspan=9)
-        label = ttk.Label(innerFrame, text="Page Two!!!")
+        label = ttk.Label(innerFrame, text="This Layput Will Help To Check with Algorithms ")
         label.grid(row=2, pady=10, padx=10)
         intro = ttk.Button(innerFrame, text="Train Test", command=self.openFile)
         intro.grid(row=3, column=0, columnspan=3, sticky="W", padx=40)
