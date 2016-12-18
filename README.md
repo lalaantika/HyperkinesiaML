@@ -9,17 +9,4 @@ Machine Learning Tool For Hyperkinesia
 - Edit regular expression in meta data from (?P<Key>.*)-(?P<HoldOut>[A-Z])-.*.tif  and make it (?p&lt;Key&gt;.*).<image Format> and click update
 - Change File Extension in Nameand type of Cellprofiler then click update. 
 - Click Analyze Images and it will give output in CSV Format. 
-- Then give output of CellProfiler as input for training testing algorithm.
-# Software Required - 
-These are the software required to run the prediction tool for Hyperkinesia. 
-To use this tool efficently we have to install them Step by Step 
-- Windows 7/8/10
-- Anaconda2/3 
-- Python 2.7 or 3.5 
-- Numpy 1.10 
-- Scipy 0.17
-- Scikit-learn
-- ImageJ
-- CellProfiler 
-- Cp-Charm 
-#Thank You For Using HyperKinesiaML Tool
+- Then give output of CellProfiler as input for training testing algorithm. /n
