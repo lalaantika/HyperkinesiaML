@@ -22,6 +22,6 @@ To use this tool efficently we have to install them Step by Step
 - Scikit-learn
 - ImageJ
 - CellProfiler 
-- Cp-Charm 
+- Cp-Charm <br> 
 #Thank You For Using HyperKinesiaML Tool
 
